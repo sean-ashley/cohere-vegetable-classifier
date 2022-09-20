@@ -1,6 +1,6 @@
 # Cohere Vegetable Classifier
 
-I love embedders, and I heard Cohere's has the best.
+I love embedders, and I heard Cohere has the best.
 
 In this notebook, I played around with the Cohere large embedder to see if I could classify vegetables using unsupervised clustering with the embeddings.
 
