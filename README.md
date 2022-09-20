@@ -1,4 +1,4 @@
-# Cohere Playground
+# Cohere Vegetable Classifier
 
 I love embedders, and I heard Cohere's has the best.
 
